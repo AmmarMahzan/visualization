@@ -32,10 +32,12 @@
   - Bar spacing: For the bar plots, the spaced bars and grouped value were evenly spaced for easy comparison.
 
   > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
-  > The entire process was done in a Jupiter Notebook with all the steps mentioned.
+  
+  - The entire process was done in a Jupiter Notebook with all the steps mentioned.
 
   > How did you ensure that your data visualization is accessible?  
-  >  I used high contrast colors and marker shapes for clarity and visibility. The axis labels, legends and titles were all added with appropriate font size and descriptive wording. The plots were saved at high resolution (300 dpi) for readability in different screen size or when printed.
+
+- I used high contrast colors and marker shapes for clarity and visibility. The axis labels, legends and titles were all added with appropriate font size and descriptive wording. The plots were saved at high resolution (300 dpi) for readability in different screen size or when printed.
 
   > Who are the individuals and communities who might be impacted by your visualization?
 
@@ -45,8 +47,8 @@
   - urban researchers or accessibility advocates
 
 - > How did you choose which features of your chosen dataset to include or exclude from your visualization?
-  > -There were 4 columns (ID, timestamp, sales count, redemption count). The ID column was excluded as it has the least importance towards the insight.
-  > -The focus was placed on the timestamp trends as this best support the goal of understanding temporal usage pattern.
+   -There were 4 columns (ID, timestamp, sales count, redemption count). The ID column was excluded as it has the least importance towards the insight.
+   -The focus was placed on the timestamp trends as this best support the goal of understanding temporal usage pattern.
 
   > What ‘underwater labour’ contributed to your final data visualization product?\
 
