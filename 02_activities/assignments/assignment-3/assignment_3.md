@@ -39,7 +39,7 @@
 
   > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
 
-  - The entire process was done in a Jupiter Notebook with all the steps mentioned in Assignment_3b.ipynb.
+  - The entire process was done in a Jupiter Notebook with all the steps mentioned in Assignment_3.ipynb.
   - Created using calculated field `Hour = DATEPART('hour', DATETIME([Timestamp]))` in Tableau. The workflow can be replicated with the shared dataset.
 
   > How did you ensure that your data visualization is accessible?  
